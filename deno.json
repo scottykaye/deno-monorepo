@@ -1,0 +1,6 @@
+{
+	"workspace": ["./apps/template-app", "./packages/template-package"],
+	"imports": {
+		"@std/assert": "jsr:@std/assert@1"
+	}
+}
