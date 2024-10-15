@@ -1,0 +1,8 @@
+{
+	"name": "@monorepo/template-package",
+	"version": "0.1.0",
+	"exports": "./test.ts",
+	"fmt": {
+		"semiColons": false
+	}
+}
